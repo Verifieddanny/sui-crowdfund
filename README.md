@@ -1,3 +1,5 @@
+[Screencast from 2025-07-20 13-15-09.webm](https://github.com/user-attachments/assets/e0a264e2-d711-4bd0-b85d-0b3fadf3159e)
+
 # 🚀 Decentralized Crowdfunding on SUI
 
 > *Fund the future, one SUI at a time* ✨
