@@ -142,8 +142,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Connect With Me
 
-- 🐦 Twitter: [@YourHandle](https://x.com/Verifieddanny)
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/devdanny0)
+- 🐦 Twitter: [@dannyclassi_c](https://x.com/dannyclassi_c)
+- 💼 LinkedIn: [Nwachukwu Daniel Chigozirim](https://www.linkedin.com/in/devdanny0)
 ---
 
 <div align="center">
